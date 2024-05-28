@@ -26,4 +26,4 @@ Contributions are welcome! If you find an issue or have a suggestion for improve
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/zeguil/fastapi_starter/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zeguil/fastapi_starter/blob/main/LICENCE) file for details.

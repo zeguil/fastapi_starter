@@ -5,10 +5,9 @@ from fastapi import FastAPI
 from sqlalchemy import inspect
 from database.config import Base, engine
 
-
 inspector = inspect(engine)
 
-# Verificar se as tabelas já existem no banco de dados
+# Verifica se as tabelas já existem no banco de dados
 existing_tables = inspector.get_table_names()
 
 # Cria as tabelas se elas não existirem
